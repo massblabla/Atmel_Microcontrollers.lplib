@@ -1,0 +1,12 @@
+(librepcb_library 93987d28-1e19-4208-8a98-4a45bc54f993
+ (name "Atmel Microcontrollers")
+ (description "Much, much more Atmel Microcontrollers for LibrePCB (i.e. ATmega328, ATmega32U4).")
+ (keywords "atmel,atmega2560,atmega328,atmega32u4,arduino,arduinouno,arduinonano,microcontrollers,controllers")
+ (author "massblabla")
+ (version "1")
+ (created 2023-12-28T12:11:36Z)
+ (deprecated false)
+ (url "https://github.com/massblabla/Atmel_Microcontrollers.lplib")
+ (dependency b404d66b-62ea-4e55-97fd-bbc1be7c297a)
+ (manufacturer "Microchip Technology")
+)
